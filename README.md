@@ -6,7 +6,7 @@
 ##### heading 5
 ###### heading 6
 
-#text styles
+# Text styles
 ## italic text
 *italic style*
 
